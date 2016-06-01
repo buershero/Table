@@ -1,6 +1,6 @@
 # Table
 
-标签（空格分隔）： table colgroup col
+table colgroup  col
 
 ---
 ###标签组成元素
